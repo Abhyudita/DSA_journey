@@ -1,4 +1,4 @@
-//Que-Write a java program that prints a reverse hollow right triangle for n number of rows.
+//Que-Write a java program that prints a hollow right triangle for n number of rows.
 
 import java.util.Scanner;
 public class Practice_hollow_right_triangle {
